@@ -1,6 +1,6 @@
 {
   "name": "nodebb-plugin-dbsearch-korean",
-  "version": "6.2.5",
+  "version": "6.2.15",
   "description": "사용자가 한글로 게시물과 토픽을 검색할 수 있게 만들어 주는 플러그인",
   "main": "index.js",
   "repository": {
@@ -28,6 +28,6 @@
     "eslint-plugin-import": "2.25.2"
   },
   "nbbpm": {
-    "compatibility": "^3.3.0"
+    "compatibility": "^4.0.0"
   }
 }
